@@ -1,0 +1,2 @@
+Audacity|0|https://www.audacityteam.org/|Free, open-source audio editor.
+Radio Jockey Guide|1|The Art of Being an RJ|A book on voice modulation and scripting.

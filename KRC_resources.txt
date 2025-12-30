@@ -1,0 +1,3 @@
+ROS Wiki|0|https://wiki.ros.org|The official documentation for Robot Operating System.
+Arduino Official|0|https://www.arduino.cc/|Tutorials and guides for Arduino.
+Modern Robotics|1|Modern Robotics: Mechanics, Planning, and Control|A comprehensive textbook.

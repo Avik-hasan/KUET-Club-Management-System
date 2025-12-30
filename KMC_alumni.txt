@@ -1,0 +1,2 @@
+Dr. S. M. Asif|2015|KUET|Professor|sma@math.kuet.ac.bd
+Lamisa Alam|2020|Telenor Research|Data Scientist|lamisa.a@telenor.com

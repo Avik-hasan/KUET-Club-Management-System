@@ -1,0 +1,2 @@
+Asif Mahmud|2019|Tesla|Robotics Engineer|asif.m@tesla.com
+Ritu Barua|2020|MIT|PhD Researcher|ritub@mit.edu

@@ -1,0 +1,3 @@
+Welcome to HACK (Hardware and Cyber Knowledge). 
+We are KUET's hub for cybersecurity enthusiasts, hardware tinkerers, and tech innovators. 
+We explore everything from ethical hacking to IoT.

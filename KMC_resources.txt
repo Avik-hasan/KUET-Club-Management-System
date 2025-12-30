@@ -1,0 +1,2 @@
+Art of Problem Solving|0|https://artofproblemsolving.com|Great resource for olympiad-level problems.
+3Blue1Brown|2|UC_Common_Channel_ID_2|The best math visualization channel on YouTube.

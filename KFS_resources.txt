@@ -1,0 +1,3 @@
+StudioBinder|0|https://www.studiobinder.com|Tools for scriptwriting and production management.
+Masterclass: Martin Scorsese|1|Masterclass Website|Learn filmmaking from a legend.
+DaVinci Resolve|0|https://www.blackmagicdesign.com/products/davinciresolve/|Professional-grade free video editor.

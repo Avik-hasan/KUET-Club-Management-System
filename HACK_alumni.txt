@@ -1,0 +1,2 @@
+Michael Paul|2019|Grameenphone|Cybersecurity Analyst|michael.p@grameenphone.com
+Farzana Islam|2021|NerdWallet|Security Engineer|f.islam@nerdwallet.com

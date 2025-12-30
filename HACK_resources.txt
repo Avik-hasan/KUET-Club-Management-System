@@ -1,0 +1,3 @@
+TryHackMe|0|https://tryhackme.com|Learn cybersecurity by doing practical exercises.
+PortSwigger Web Security|0|https://portswigger.net/web-security|The complete guide to web security.
+The Art of Electronics|1|The Art of Electronics by Horowitz and Hill|The best book on electronics.

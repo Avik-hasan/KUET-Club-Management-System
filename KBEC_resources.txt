@@ -1,0 +1,2 @@
+Y Combinator Library|0|https://www.ycombinator.com/library|Essential startup advice.
+The Lean Startup|1|The Lean Startup by Eric Ries|A must-read for entrepreneurs.
