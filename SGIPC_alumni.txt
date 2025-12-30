@@ -1,0 +1,3 @@
+Rohan Ahmed|2020|Google|Software Engineer|rohan.a@google.com
+Sania Tasnim|2019|Microsoft|Senior SDE|sania.t@microsoft.com
+Fahim Kamal|2021|Samsung R&D|Software Developer|f.kamal@samsung.com

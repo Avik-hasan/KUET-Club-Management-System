@@ -1,0 +1,3 @@
+Behance|0|https://www.behance.net|Showcase and discover creative work.
+Procreate Handbook|1|Procreate Artists Handbook|The official guide to Procreate.
+Figma Basics|2|UC_Common_Channel_ID_3|Learn UI/UX design on YouTube.

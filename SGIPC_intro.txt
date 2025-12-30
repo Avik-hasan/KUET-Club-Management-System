@@ -1,0 +1,3 @@
+Welcome to SGIPC (KUET Society of Guideline Information & Programming Community)! 
+We are the premier competitive programming club at KUET. 
+Our mission is to foster a strong culture of problem-solving and algorithmic thinking.
