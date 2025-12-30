@@ -5,7 +5,7 @@ KUET Club Management System (KUET-CMS)
 
 A console-based application built in C for managing student clubs at Khulna University of Engineering and Technology (KUET). This project is developed as part of our first-year C programming course.
 
-2.Project Objective
+1.Project Objective
 The primary goal of the KUET Club Management System is to create a simple, efficient, and robust console-based tool to digitize and streamline the administrative tasks of various student clubs at KUET. This system moves away from traditional paper-based or scattered spreadsheet methods to a centralized C-based application, focusing on fundamental programming concepts like data structures, file handling, and memory management.
 
 2.Key Features
